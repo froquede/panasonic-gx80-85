@@ -1,5 +1,5 @@
 # panasonic-gx80/85
-mod and information about hardware and software used in the panasonic gx80/85 camera
+mods and information about hardware and software used in the panasonic gx80/85 camera
 
 - [External mic mod](https://webboggles.com/external-mic-jack-mod-for-lumix-gx80-gx85/)
 - [Wifi protocol info](https://github.com/cleverfox/lumixproto)
